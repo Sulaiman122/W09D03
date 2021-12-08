@@ -3,6 +3,9 @@
 **_TodosSite_** is a website allow registered user to create their own todo list, also allow the user to change the task or delete it.
 and admin has his own page to see all users todo plus his own todo and delete whatever he wants and he can also see all users and delete them if he wants.
 
+## UML diagram
+<img src='https://i.ibb.co/ZmkQh8s/Untitled-Diagram-drawio.png' alt='img'/>
+
 ## User Stories
 
 - **Register:** As a visitor I can register in the website so that I can create my own todo list
