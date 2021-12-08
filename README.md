@@ -4,7 +4,7 @@
 and admin has his own page to see all users todo plus his own todo and delete whatever he wants and he can also see all users and delete them if he wants.
 
 ## UML diagram
-<img src='https://i.ibb.co/ZmkQh8s/Untitled-Diagram-drawio.png' alt='img'/>
+<img src='https://i.ibb.co/DpPx8Cq/Untitled-Diagram-drawio-2.png' alt='img'/>
 
 ## User Stories
 
